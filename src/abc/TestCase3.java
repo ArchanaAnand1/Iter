@@ -12,7 +12,7 @@ public class TestCase3 {
 		List<String> fruits  = new ArrayList<>();
 		fruits.add("Apple");
 		fruits.add("Mango");
-		fruits.add("Banana");
+		fruits.add("Bananssa");
 		
 		Iterator<String> it = fruits.iterator();
 		while(it.hasNext()) {
